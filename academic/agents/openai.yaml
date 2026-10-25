@@ -1,0 +1,13 @@
+interface:
+  display_name: Academic
+  short_description: 按需深挖学术问题，用讲解、实践和反馈提升理解，减少无关确认与冗余输出
+  default_prompt: 请使用 $academic，围绕我当前的问题开展学术研究或学习指导，按需展开并通过反馈调整。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
