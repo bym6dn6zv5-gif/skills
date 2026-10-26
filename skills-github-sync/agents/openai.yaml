@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skills GitHub Sync"
+  short_description: "按用户既定授权，将每次创建或更新完成的个人技能自动发布到指定 GitHub 仓库"
+  default_prompt: "请使用 $skills-github-sync，将本次完成的个人技能同步至 bym6dn6zv5-gif/skills，并核对结果。"
