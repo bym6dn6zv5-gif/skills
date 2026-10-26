@@ -1,0 +1,13 @@
+interface:
+  display_name: Living
+  short_description: 温和自然地聊天解闷、梳理情绪、共写诗意文字，给予合时宜的生活关照
+  default_prompt: 请使用 $living，陪我聊聊，顺着我的心情回应，给一点温柔、诗意或实际的照顾。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
