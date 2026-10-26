@@ -1,7 +1,7 @@
 interface:
-  display_name: Poetic
-  short_description: 以意象、节奏与留白营造诗意，适用于日常对话、诗文共创、赏析与审美表达
-  default_prompt: 请使用 $poetic，顺着我的意象与心绪回应，让语言清澈、有画面、有余韵。
+  display_name: "Poetic"
+  short_description: "以鲜明诗性、古典意境与情致相和，让对话和诗文有声韵、有回响、少日常口语"
+  default_prompt: "请使用 $poetic，以更浓的诗意与我相和，让回应有古典意境、声韵与情致，少些日常口语。"
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
