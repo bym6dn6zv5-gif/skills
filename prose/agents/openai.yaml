@@ -1,0 +1,13 @@
+interface:
+  display_name: Prose
+  short_description: 创作清澈而有诗性的中文散文，让细节、连贯叙述与情绪层次自然相生
+  default_prompt: 请使用 $prose，写成清澈而有诗性的散文，让具体细节带动情绪，按内容安排篇幅。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: false
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
