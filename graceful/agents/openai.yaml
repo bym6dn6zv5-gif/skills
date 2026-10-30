@@ -1,7 +1,7 @@
 interface:
-  display_name: Poetic Graceful
+  display_name: Graceful
   short_description: 以婉约词意与长短句声情相和，让意象、停顿与余韵承接细腻心绪
-  default_prompt: 请使用 $poetic-graceful，以清婉的长短句与我相和，让意象相接、声情有回转。
+  default_prompt: 请使用 $graceful，以清婉的长短句与我相和，让意象相接、声情有回转。
   icon_small: assets/icon.svg
   icon_large: assets/icon.svg
 policy:
